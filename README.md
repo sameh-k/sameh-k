@@ -1,5 +1,4 @@
-<h1>Hi there 👋</h1>
-<h2>I am Sameh!</h2>
+<h1>Hi there 👋, I am Sameh!</h1>
 <h3></h3>
 
 <!--
