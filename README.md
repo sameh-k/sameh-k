@@ -1,4 +1,4 @@
-f### Hi there 👋
+Hi there 👋
 
 <!--
 **sameh-k/sameh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
