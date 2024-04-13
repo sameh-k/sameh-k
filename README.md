@@ -1,4 +1,4 @@
-### Hi there 👋
+f### Hi there 👋
 
 <!--
 **sameh-k/sameh-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="flex gap-4 space-around items-center">
+<div class="display: flex;justify-content: space-evenly;align-self: center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-k&" align="center" alt="sameh-k github streak"/></p>
   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-k&show_icons=true&locale=en&layout=compact" align="center" alt="sameh-k github stats"/></p>
 </div>
