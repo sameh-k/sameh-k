@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div class="display: flex;justify-content: space-evenly;align-self: center">
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-k&" align="center" alt="sameh-k github streak"/></p>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-k&show_icons=true&locale=en&layout=compact" align="center" alt="sameh-k github stats"/></p>
+<div style="display: flex;justify-content: space-evenly;align-self: center">
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-k&" align="center" alt="sameh-k github streak"/>
+  </div>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-k&show_icons=true&locale=en&layout=compact" align="center" alt="sameh-k github stats"/>
+  </div>
 </div>
