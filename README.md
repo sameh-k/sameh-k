@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <div style="display: flex;justify-content: space-evenly;align-self: center">
   <div>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameh-k&" align="center" alt="sameh-k github streak"/>
@@ -24,3 +25,8 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameh-k&show_icons=true&locale=en&layout=compact" align="center" alt="sameh-k github stats"/>
   </div>
 </div>
+-->
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
